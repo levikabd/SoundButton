@@ -1,0 +1,6 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+        <file>resources/ring.mp3</file>
+        <file>resources/zvong.mp3</file>
+</qresource>
+</RCC>
